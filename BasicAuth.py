@@ -1,8 +1,8 @@
 import base64
 import requests
 
-users=['administrator', 'admin']
-passwords=['admin123','admin']
+users=['TrustedInstaller', 'Adminastarator']
+passwords=['admin590','admin0']
 protectedResource = 'http://localhost/secured'
 
 foundPass = False
